@@ -70,5 +70,10 @@ public class NestingIfNestingLoopsForLoop : MonoBehaviour
             Debug.Log("Hello");
         }
 
+        // 0001001000100110010001010010100010010010101000010
+        // 0100100101010101010010101010010101010101010101010
+
+        
+        
     }
 }
